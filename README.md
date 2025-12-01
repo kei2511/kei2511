@@ -34,23 +34,18 @@ Hi there! I'm **Keisyariq**, a developer who loves building software that solves
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 My Focus
+
+- 🤖 **AI & Automation**: Integrating Artificial Intelligence into everyday development workflows.
+- 🏗️ **System Architecture**: Designing scalable and resilient systems.
+- 🔧 **Clean Code**: Writing code that is readable, maintainable, and efficient.
+
+<br/>
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kei2511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kei2511&theme=tokyonight&hide_border=true&background=00000000" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei2511&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <blockquote>
+    "The computer was born to solve problems that did not exist before."
+  </blockquote>
 </div>
 
 ---
