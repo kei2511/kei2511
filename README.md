@@ -23,22 +23,33 @@
 
 <br/>
 
-<!-- About Me Section -->
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+---
 
+<!-- About Me Section with proper GIF layout -->
 ## 🚀 About Me
 
-Hey there! I'm **Keisyariq** — a passionate developer who turns caffeine into code! ☕💻
-
-I love building **smart solutions** that leverage the power of **AI** and **automation** to solve real-world problems. Whether it's crafting a sleek web app or architecting scalable systems, I'm always up for the challenge!
-
-- 🔭 Currently working on **AI-powered applications** and **automation tools**
-- 🌱 Deep diving into **System Design** and **AI-Integrated Workflows**
-- 🤖 Passionate about **AI & Machine Learning**
-- ⚡ Fun fact: *"I automate everything I can!"*
-- 💡 Philosophy: *"Code once, run forever"*
-
-<br clear="both"/>
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        Hey there! I'm <strong>Keisyariq</strong> — a passionate developer who turns caffeine into code! ☕💻
+      </p>
+      <p>
+        I love building <strong>smart solutions</strong> that leverage the power of <strong>AI</strong> and <strong>automation</strong> to solve real-world problems. Whether it's crafting a sleek web app or architecting scalable systems, I'm always up for the challenge!
+      </p>
+      <ul>
+        <li>🔭 Currently working on <strong>AI-powered applications</strong> and <strong>automation tools</strong></li>
+        <li>🌱 Deep diving into <strong>System Design</strong> and <strong>AI-Integrated Workflows</strong></li>
+        <li>🤖 Passionate about <strong>AI & Machine Learning</strong></li>
+        <li>⚡ Fun fact: <em>"I automate everything I can!"</em></li>
+        <li>💡 Philosophy: <em>"Code once, run forever"</em></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -110,28 +121,13 @@ I love building **smart solutions** that leverage the power of **AI** and **auto
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&langs_count=8" />
-    <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kei2511&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&background=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kei2511&hide_border=true" />
-    <img width="60%" src="https://streak-stats.demolab.com/?user=kei2511&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&background=0d1117" alt="GitHub Streak"/>
-  </picture>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
+  <br/>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kei2511&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution Graph"/>
 </div>
 
@@ -164,17 +160,12 @@ I love building **smart solutions** that leverage the power of **AI** and **auto
 
 ---
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
-</div>
-
----
-
 <!-- Quote Section -->
 <div align="center">
   
-  > *"The computer was born to solve problems that did not exist before."* — Bill Gates
+  ### 💭 Random Dev Quote
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
   
 </div>
 
