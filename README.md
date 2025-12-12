@@ -23,15 +23,6 @@
 
 <br/>
 
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
-  </a>
-</div>
-
-<br/>
-
 <!-- About Me Section -->
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
@@ -51,43 +42,65 @@ I love building **smart solutions** that leverage the power of **AI** and **auto
 
 ---
 
+## 🎯 What I Do
+
+<div align="center">
+
+| 🤖 **AI & Automation** | 🏗️ **System Architecture** | 🔧 **Clean Code** |
+|:---:|:---:|:---:|
+| Integrating AI into workflows to build smarter solutions | Designing scalable and resilient systems | Writing readable, maintainable code |
+
+</div>
+
+---
+
 <!-- Tech Stack Section -->
 ## 💻 Tech Arsenal
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🔤 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Frontend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-### Backend & Database
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
-### AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+### 🤖 AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots"/>
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
 
 </div>
 
@@ -97,12 +110,24 @@ I love building **smart solutions** that leverage the power of **AI** and **auto
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kei2511&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Keisyariq's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&langs_count=8" />
+    <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kei2511&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&background=0d1117" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kei2511&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&background=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kei2511&hide_border=true" />
+    <img width="60%" src="https://streak-stats.demolab.com/?user=kei2511&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&background=0d1117" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <!-- Activity Graph -->
@@ -116,88 +141,41 @@ I love building **smart solutions** that leverage the power of **AI** and **auto
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/kei2511/medscreen-platform">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=medscreen-platform&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="medscreen-platform"/>
-  </a>
-  <a href="https://github.com/kei2511/automated_testing_framework">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=automated_testing_framework&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="automated_testing_framework"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/kei2511/job-app-tracker">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=job-app-tracker&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="job-app-tracker"/>
-  </a>
-  <a href="https://github.com/kei2511/telegram-movie-bot">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=telegram-movie-bot&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="telegram-movie-bot"/>
-  </a>
-</div>
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| 🏥 **[medscreen-platform](https://github.com/kei2511/medscreen-platform)** | Medical screening platform | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) |
+| 🧪 **[automated_testing_framework](https://github.com/kei2511/automated_testing_framework)** | Automated testing framework with Selenium | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| 💼 **[job-app-tracker](https://github.com/kei2511/job-app-tracker)** | Track your job applications | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 🤖 **[telegram-movie-bot](https://github.com/kei2511/telegram-movie-bot)** | Telegram bot for movie search | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
+| 📱 **[marketplace-flutter](https://github.com/kei2511/marketplace-flutter)** | Mobile marketplace app | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| 🔧 **[marketplace-nodejs](https://github.com/kei2511/marketplace-nodejs)** | Backend API for marketplace | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express) |
+| ⏰ **[pomodoro-app](https://github.com/kei2511/pomodoro-app)** | Productivity timer app | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 👤 **[virtualHR](https://github.com/kei2511/virtualHR)** | Virtual HR assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-<div align="center">
-  <a href="https://github.com/kei2511/marketplace-flutter">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=marketplace-flutter&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="marketplace-flutter"/>
-  </a>
-  <a href="https://github.com/kei2511/marketplace-nodejs">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=marketplace-nodejs&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="marketplace-nodejs"/>
-  </a>
 </div>
 
 <div align="center">
   <br/>
   <a href="https://github.com/kei2511?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories_→-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos"/>
+    <img src="https://img.shields.io/badge/🔗_View_All_16_Repositories-58A6FF?style=for-the-badge" alt="View All Repos"/>
   </a>
 </div>
 
 ---
 
-<!-- My Focus Section -->
-## 🎯 What I Do
-
+<!-- Trophies -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" alt="AI"/>
-        <br/>
-        <strong>🤖 AI & Automation</strong>
-        <br/>
-        <sub>Integrating AI into workflows to build smarter, more efficient solutions</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/system-task.png" width="60" alt="System"/>
-        <br/>
-        <strong>🏗️ System Architecture</strong>
-        <br/>
-        <sub>Designing scalable and resilient systems that stand the test of time</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/source-code.png" width="60" alt="Code"/>
-        <br/>
-        <strong>🔧 Clean Code</strong>
-        <br/>
-        <sub>Writing readable, maintainable, and efficient code</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
 </div>
 
 ---
 
 <!-- Quote Section -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
+  
+  > *"The computer was born to solve problems that did not exist before."* — Bill Gates
+  
 </div>
 
 ---
@@ -209,17 +187,13 @@ I love building **smart solutions** that leverage the power of **AI** and **auto
   <a href="https://github.com/kei2511">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <!-- Add more social links as needed -->
   <!-- 
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   -->
 </div>
@@ -230,10 +204,7 @@ I love building **smart solutions** that leverage the power of **AI** and **auto
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
-<!-- Hidden Secret -->
 <!-- 
-  Thanks for checking out my profile! 🎉
-  If you found this, drop a star ⭐ on something!
-  
+  Thanks for visiting! 🎉
   "First, solve the problem. Then, write the code." - John Johnson
 -->
