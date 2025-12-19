@@ -93,7 +93,7 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 ### 🔧 API & Performance Testing
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/></a>
   <a href="#"><img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6"/></a>
@@ -109,10 +109,10 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 ### 📊 Reporting & Monitoring
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Allure%20Report-FD4F00?style=for-the-badge&logo=allure&logoColor=white" alt="Allure"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Allure%20Report-FD4F00?style=for-the-badge&logo=testcafe&logoColor=white" alt="Allure"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML%20Reports-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Reports"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=speedtest&logoColor=white" alt="TestRail"/></a>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -179,36 +179,40 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Statistics
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <a href="https://github.com/kei2511">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kei2511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/kei2511">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kei2511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  </a>
-  
-</div>
+<!-- GitHub Stats with alternative service -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</p>
 
-<br/>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/kei2511">
-    <img src="https://streak-stats.demolab.com?user=kei2511&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" alt="GitHub Streak"/>
-  </a>
-  
-</div>
+<!-- GitHub Streak with working URL -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kei2511&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" alt="GitHub Streak"/>
+</p>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📌 Featured Projects
+
 <div align="center">
-  <a href="https://github.com/kei2511">
-    <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/kei2511/saucedemo_automation_testing">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=saucedemo_automation_testing&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Saucedemo Automation"/>
+  </a>
+  <a href="https://github.com/kei2511/automated_testing_framework">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=automated_testing_framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Automated Testing Framework"/>
   </a>
 </div>
 
@@ -219,25 +223,7 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 <br/>
 
-## � Featured Projects
-
-<div align="center">
-  <a href="https://github.com/kei2511/selenium-automation-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=selenium-automation-framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Selenium Framework"/>
-  </a>
-  <a href="https://github.com/kei2511/api-testing-collection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kei2511&repo=api-testing-collection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="API Testing"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## � QA Philosophy
+## 💭 QA Philosophy
 
 <div align="center">
   
@@ -291,13 +277,6 @@ I specialize in building **robust, scalable, and maintainable test automation fr
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
-</div>
-
-<br/>
-
-<!-- Spotify Playing - Optional -->
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3boxxi5v3s5h3r3gmpnhwxdtu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff" alt="Spotify"/>
 </div>
 
 <br/>
