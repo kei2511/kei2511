@@ -1,35 +1,35 @@
 <div align="center">
   
-  <!-- Animated Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=200&section=header&text=Keisyariq&fontSize=50&fontColor=00d9ff&animation=twinkling&fontAlignY=35&desc=🔍%20QA%20Automation%20Engineer%20|%20🧪%20Test%20Architect%20|%20🚀%20Quality%20Advocate&descSize=16&descAlignY=55&descColor=ffffff"/>
+  <!-- Animated Header Banner - Katalon Theme (Green) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00D68F&height=200&section=header&text=Keisyariq&fontSize=50&fontColor=00D68F&animation=twinkling&fontAlignY=35&desc=�️%20Katalon%20Studio%20Expert%20|%20🧪%20Test%20Automation%20Specialist%20|%20🚀%20Quality%20Advocate&descSize=16&descAlignY=55&descColor=ffffff"/>
 
 </div>
 
-<!-- Animated Typing -->
+<!-- Animated Typing - Katalon Focus -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=%E2%9C%A8+Transforming+Quality+Assurance+Through+Automation;%F0%9F%94%8D+Selenium+%7C+Playwright+%7C+Cypress+%7C+Pytest+Expert;%F0%9F%90%8D+Python+%26+JavaScript+Test+Automation+Specialist;%F0%9F%8E%AF+Building+Bulletproof+Software+Quality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D68F&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=%E2%9C%A8+Katalon+Studio+Automation+Expert;%F0%9F%9B%A1%EF%B8%8F+Web+%7C+API+%7C+Mobile+%7C+Desktop+Testing;%F0%9F%8E%AF+Building+Scalable+Test+Automation+Solutions;%F0%9F%94%8D+End-to-End+Quality+Assurance+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Profile Views & Social Badges -->
+<!-- Profile Views & Social Badges - Katalon Theme -->
 <div align="center">
   <a href="https://github.com/kei2511?tab=followers">
-    <img src="https://img.shields.io/github/followers/kei2511?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/kei2511?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D68F" alt="followers"/>
   </a>
   <a href="https://github.com/kei2511?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-16+-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="repos"/>
+    <img src="https://img.shields.io/badge/Public%20Repos-16+-00D68F?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="repos"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-QA%20Automation-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="focus"/>
-  <img src="https://komarev.com/ghpvc/?username=kei2511&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=Profile+Views" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Specialty-Katalon%20Studio-00D68F?style=for-the-badge&logo=katalon&logoColor=white&labelColor=0D1117" alt="katalon"/>
+  <img src="https://komarev.com/ghpvc/?username=kei2511&style=for-the-badge&color=00D68F&labelColor=0D1117&label=Profile+Views" alt="profile views"/>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
+<!-- About Me Section - Katalon Focus -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <table>
@@ -38,26 +38,27 @@
 
 ### 👨‍💻 Who Am I?
   
-Hey there! I'm **Keisyariq** — a passionate **QA Automation Engineer** who believes that **quality is the backbone of every successful software**! 
+Hey there! I'm **Keisyariq** — a dedicated **Katalon Studio Expert** passionate about delivering **comprehensive test automation solutions**!
 
-I specialize in building **robust, scalable, and maintainable test automation frameworks** that catch bugs before they reach production. My mission is to ensure every release is **bulletproof** 🛡️
+I specialize in leveraging **Katalon Studio's powerful capabilities** to create **robust, maintainable, and scalable test frameworks** for Web, API, Mobile, and Desktop applications. My mission is to ensure **zero-defect releases** through intelligent automation! 🎯
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Currently Working On:**
-- 🔬 Building comprehensive E2E test suites
-- 🤖 Automating regression testing pipelines
-- 📊 Implementing test analytics dashboards
+- �️ Building Katalon-based E2E test suites
+- 🔗 Integrating Katalon with CI/CD pipelines
+- 📊 Creating comprehensive test reports with TestOps
+- 🤖 Implementing keyword-driven frameworks
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Fun Facts:**
-- ☕ Powered by coffee and curiosity
-- 🐛 Professional bug hunter by day
-- 🚀 Automation enthusiast 24/7
-- 💡 *"If it's not tested, it's broken"*
+- ☕ Powered by coffee and automation scripts
+- 🐛 Katalon-certified bug hunter
+- 🚀 Script Mode & Manual Mode expert
+- 💡 *"Automate everything, test everywhere"*
 
 </td>
 <td width="45%" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" alt="Coding GIF"/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kei2511&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kei2511&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=00D68F&line=00D68F&point=FFFFFF&area_color=00D68F&area=true&hide_border=true" width="100%"/>
 </td>
 </tr>
 </table>
@@ -73,55 +74,53 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 <div align="center">
 
-### 🧪 Test Automation Frameworks
+<!-- Katalon Highlight Section -->
+### 🛡️ Katalon Studio Ecosystem
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Katalon%20Studio-00D68F?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon Studio"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Katalon%20Recorder-00A86B?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon Recorder"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Katalon%20TestOps-00875A?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon TestOps"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Katalon%20Runtime%20Engine-006644?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon Runtime Engine"/></a>
+</p>
+
+### 🎯 Katalon Testing Capabilities
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Web%20Testing-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Testing"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mobile%20Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Testing"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Desktop%20Testing-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop Testing"/></a>
+</p>
+
+### � Programming & Scripting
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+</p>
+
+### � Complementary Tools
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/></a>
-</p>
-
-### 💻 Programming Languages
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-</p>
-
-### 🔧 API & Performance Testing
-<p>
+  <a href="#"><img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6"/></a>
 </p>
 
-### 🚀 CI/CD & DevOps
+### � CI/CD & DevOps Integration
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 </p>
 
-### 📊 Reporting & Monitoring
+### � Reporting & Management
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Allure%20Report-FD4F00?style=for-the-badge&logo=testcafe&logoColor=white" alt="Allure"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML%20Reports-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Reports"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=speedtest&logoColor=white" alt="TestRail"/></a>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TestOps%20Reports-00D68F?style=for-the-badge&logo=katalon&logoColor=white" alt="TestOps Reports"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Selenium%20Grid-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Grid"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=speedtest&logoColor=white" alt="TestRail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Allure%20Report-FD4F00?style=for-the-badge&logo=testcafe&logoColor=white" alt="Allure"/></a>
 </p>
 
 </div>
@@ -133,37 +132,37 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Katalon Expertise
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/🔍%20Test%20Automation-0D1117?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/�️%20Katalon%20Features-0D1117?style=for-the-badge&labelColor=0D1117" />
 
-| Expertise | Description |
+| Icon | Expertise |
 |:---:|:---|
-| ✅ | **End-to-End UI Testing** |
-| ✅ | **API & Integration Testing** |
-| ✅ | **Cross-Browser Testing** |
-| ✅ | **Mobile App Testing** |
-| ✅ | **Performance & Load Testing** |
-| ✅ | **Security Testing Basics** |
+| ✅ | **Record & Playback (Spy Web/Mobile)** |
+| ✅ | **Keyword-Driven Testing** |
+| ✅ | **Data-Driven Testing with DDT** |
+| ✅ | **Script Mode (Groovy/Java)** |
+| ✅ | **Built-in Object Repository** |
+| ✅ | **Smart Wait & Self-Healing** |
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/📈%20Best%20Practices-0D1117?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📈%20Advanced%20Skills-0D1117?style=for-the-badge&labelColor=0D1117" />
 
-| Practice | Description |
+| Icon | Practice |
 |:---:|:---|
-| 🎯 | **Page Object Model (POM)** |
-| 🎯 | **Data-Driven Testing** |
-| 🎯 | **BDD with Cucumber/Gherkin** |
-| 🎯 | **CI/CD Pipeline Integration** |
-| 🎯 | **Parallel Test Execution** |
-| 🎯 | **Test Reporting & Analytics** |
+| 🎯 | **Custom Keywords Development** |
+| 🎯 | **Test Listeners & Hooks** |
+| 🎯 | **Profile & Global Variables** |
+| 🎯 | **TestOps Integration** |
+| 🎯 | **Parallel & Cross-Browser Execution** |
+| 🎯 | **Git Integration & Version Control** |
 
 </td>
 </tr>
@@ -179,15 +178,15 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Statistics
 
-<!-- GitHub Stats with alternative service -->
+<!-- GitHub Stats with Katalon theme colors -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kei2511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kei2511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Streak with working URL -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kei2511&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kei2511&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D68F&ring=00D68F&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00D68F&currStreakLabel=00D68F&sideLabels=00D68F&dates=888888" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -195,7 +194,7 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1" alt="GitHub Trophies"/>
 </p>
 
 <br/>
@@ -209,10 +208,10 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 <div align="center">
   <a href="https://github.com/kei2511/saucedemo_automation_testing">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=saucedemo_automation_testing&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Saucedemo Automation"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=saucedemo_automation_testing&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="Saucedemo Automation"/>
   </a>
   <a href="https://github.com/kei2511/automated_testing_framework">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=automated_testing_framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Automated Testing Framework"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=automated_testing_framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="Automated Testing Framework"/>
   </a>
 </div>
 
@@ -223,20 +222,20 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 <br/>
 
-## 💭 QA Philosophy
+## 💭 Katalon Philosophy
 
 <div align="center">
   
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║   "Quality is not an act, it's a habit." - Aristotle                         ║
+║   🛡️ "Katalon: Where Simplicity Meets Power in Test Automation"              ║
 ║                                                                               ║
-║   "Testing leads to failure, and failure leads to understanding."            ║
-║                                                        - Burt Rutan          ║
+║   🎯 "Smart Testing = Record + Script + Maintain + Scale"                     ║
 ║                                                                               ║
-║   "The bitterness of poor quality remains long after the                     ║
-║    sweetness of low price is forgotten." - Benjamin Franklin                 ║
+║   💡 "From Manual to Automation in Minutes, Not Days"                         ║
+║                                                                               ║
+║   🚀 "One Platform, All Testing Needs: Web • API • Mobile • Desktop"         ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -265,7 +264,7 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
 </div>
 
 <br/>
@@ -281,11 +280,11 @@ I specialize in building **robust, scalable, and maintainable test automation fr
 
 <br/>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=120&section=footer"/>
+<!-- Footer - Katalon Theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00D68F&height=120&section=footer"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Katalon%20Studio%20❤️-00D68F?style=for-the-badge&labelColor=0D1117" alt="Katalon Powered"/>
   <br/>
   <sub>⭐ Star my repos if you find them useful! ⭐</sub>
 </div>
