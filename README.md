@@ -207,11 +207,11 @@ I specialize in leveraging **Katalon Studio's powerful capabilities** to create 
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/kei2511/saucedemo_automation_testing">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=saucedemo_automation_testing&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="Saucedemo Automation"/>
+  <a href="https://github.com/kei2511/CURA-Healthcare-Service-Test-Automations">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=CURA-Healthcare-Service-Test-Automations&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="CURA Healthcare Test Automations"/>
   </a>
-  <a href="https://github.com/kei2511/automated_testing_framework">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=automated_testing_framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="Automated Testing Framework"/>
+  <a href="https://github.com/kei2511/SwagLabs-Katalon-Automation">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=SwagLabs-Katalon-Automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="SwagLabs Katalon Automation"/>
   </a>
 </div>
 
