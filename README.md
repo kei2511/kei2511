@@ -194,7 +194,7 @@ I specialize in leveraging **Katalon Studio's powerful capabilities** to create 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kei2511&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=kei2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br/>
