@@ -207,11 +207,19 @@ I specialize in leveraging **Katalon Studio's powerful capabilities** to create 
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/kei2511/CURA-Healthcare-Service-Test-Automations">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=CURA-Healthcare-Service-Test-Automations&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="CURA Healthcare Test Automations"/>
-  </a>
-  <a href="https://github.com/kei2511/SwagLabs-Katalon-Automation">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kei2511&repo=SwagLabs-Katalon-Automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D68F&icon_color=00D68F" alt="SwagLabs Katalon Automation"/>
+
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| 🏥 **[CURA-Healthcare-Service-Test-Automations](https://github.com/kei2511/CURA-Healthcare-Service-Test-Automations)** | Automated UI Testing for CURA Healthcare Service | ![Katalon](https://img.shields.io/badge/-Katalon_Studio-43B02A?style=flat-square) |
+| 🛒 **[SwagLabs-Katalon-Automation](https://github.com/kei2511/SwagLabs-Katalon-Automation)** | Automated testing for Swag Labs e-commerce | ![Katalon](https://img.shields.io/badge/-Katalon_Studio-43B02A?style=flat-square) |
+| 🧪 **[qa-testing-inventory-app](https://github.com/kei2511/qa-testing-inventory-app)** | QA testing artifacts for Inventory Management App | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/kei2511?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_View_All_16_Repositories-58A6FF?style=for-the-badge" alt="View All Repos"/>
   </a>
 </div>
 
